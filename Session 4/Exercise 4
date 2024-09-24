@@ -1,0 +1,9 @@
+# Exercise 4: Simple Arithmetic
+# Perform basic arithmetic operations and print the results
+# Addition, Subtraction, Multiplication, Division
+print("Exercise 4:")
+NumOne = 10
+NumTwo = 5
+
+print(f"Addition: {NumOne + NumTwo}")
+

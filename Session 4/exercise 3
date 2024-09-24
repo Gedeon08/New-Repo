@@ -1,0 +1,9 @@
+# Exercise 3: String Concatenation
+# Create two variables with your first and last name, and print them together
+
+print("Exercise 3:")
+stringOne = "John"
+StringTwo = "Doe"
+
+print(f"{stringOne} {StringTwo}")
+

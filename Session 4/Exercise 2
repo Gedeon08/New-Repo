@@ -1,0 +1,9 @@
+# Exercise 2: Variables and Data Types
+# Create two drinks variable (Milk and Water) and swap their values
+# Print the old and new values of the variables
+print("Exercise 2:")
+drink1 = "Milk"
+drink2 = "Water"
+
+print("New values:" + drink1 + "and" + drink2)
+

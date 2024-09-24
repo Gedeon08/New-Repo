@@ -1,0 +1,21 @@
+# Exercise 11: String Formatting
+# Task: Format the following variables into a string: "name", "age", and "city"
+# Example output: "John is 30 years old and lives in New York."
+print("Exercise 11:")
+
+# Exercise 11: String Formatting
+# Task: Format the following variables into a string: "name", "age", and "city"
+# Example output: "John is 30 years old and lives in New York."
+
+print("Exercise 11:")
+
+# Define the variables
+name = "John"
+age = 30
+city = "New York"
+
+# Use string formatting to create the sentence
+output = f"{name} is {age} years old and lives in {city}."
+
+# Print the formatted string
+print(output)

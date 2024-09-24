@@ -1,0 +1,13 @@
+# Exercise 9: Dictionaries
+# Create a dictionary with three key-value pairs and print the value of one key
+print("Exercise 9:")
+
+# Create a dictionary with three key-value pairs
+person = {
+    "name": "Alice",
+    "age": 28,
+    "city": "New York"
+}
+
+# Print the value of one key
+print(f"The person's name is {person['name']}.")

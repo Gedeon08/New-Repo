@@ -1,0 +1,11 @@
+# Exercise 8: Functions
+# Create a function that takes a name as input and prints a greeting
+print("Exercise 8:")
+
+# Define a function that takes a name as input and prints a greeting
+def greet(name):
+    print(f"Hello, {name}! Welcome to the program.")
+
+# Call the function with a name
+greet("Gedeon")
+

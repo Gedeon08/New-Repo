@@ -1,0 +1,13 @@
+# Exercise 7: If-Else Condition
+# Write an if-else statement to check if a number is greater than or equal to 10
+print("Exercise 7:")
+
+# Define a number to check
+number = 15
+
+# If-Else condition to check if the number is greater than or equal to 10
+if number >= 10:
+    print(f"The number {number} is greater than or equal to 10.")
+else:
+    print(f"The number {number} is less than 10.")
+

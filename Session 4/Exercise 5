@@ -1,0 +1,7 @@
+# Exercise 5: Lists
+# Create a list of 5 numbers and print the first and last element
+print("Exercise 5:")
+numbers = [1, 2, 3, 4, 5]
+print(f"first element: {numbers[0]}")
+print(f"Last element: {numbers[-1]}")
+

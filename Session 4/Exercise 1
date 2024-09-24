@@ -1,0 +1,9 @@
+# Exercise 1: Reuqest user input and print a greeting
+# Print a greeting message using the user's name
+print("Exercise 1:")
+Name = "Dave"
+Age = 30
+
+print(f"{Name} and {Age}")
+
+

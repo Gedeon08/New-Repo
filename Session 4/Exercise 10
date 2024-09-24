@@ -1,0 +1,12 @@
+# Exercise 10: While Loop
+# Write a while loop that prints numbers from 1 to 5
+print("Exercise 10:")
+
+# Initialize the variable
+number = 1
+
+# While loop to print numbers from 1 to 5
+while number <= 5:
+    print(number)
+    number += 1  # Increment the number by 1
+

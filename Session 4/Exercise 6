@@ -1,0 +1,12 @@
+print("Exercise 5:")
+numbers = [1, 2, 3, 4, 5]
+print(f"first element: {numbers[0]}")
+print(f"Last element: {numbers[-1]}")
+
+
+# Exercise 6: For Loop
+# Use the list from Ex.5. Print each element in the list of numbers using a for loop
+print("Exercise 6:")
+for number in numbers:
+    print(number)
+

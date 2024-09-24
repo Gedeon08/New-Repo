@@ -1,0 +1,13 @@
+# Exercise 13: Write one line of Python that takes this list a and makes a new list that has only the even elements of this list in it.
+# Task: Create a list of years [1990, 1991, 1992, 1993, 1994, 1995] and generate a new list with the approximate age of a person born in that year.
+# To generate a new list, start with an empty list [], and use append() to add elements to it.
+print("Exercise 13:")
+years = [1990, 1991, 1992, 1993, 1994, 1995]
+
+age = []
+
+for year in years:
+    age.append(2024 - year)
+
+print(age)
+
